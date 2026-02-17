@@ -31,7 +31,15 @@ git branch -M main
 git push -u origin main
 ```
 
-## 3. Agregar Topics en GitHub
+## 3. Configurar Botón de Sponsor (Buy Me a Coffee)
+
+El archivo `.github/FUNDING.yml` ya está creado, así que cuando subas el código:
+
+1. Ve a tu repositorio en GitHub
+2. Verás un botón "❤️ Sponsor" automáticamente
+3. Al hacer click, te llevará a https://buymeacoffee.com/elihatdeveloper
+
+## 4. Agregar Topics en GitHub
 
 En la página del repo, click en el ícono de engranaje junto a "About" y agrega estos topics:
 

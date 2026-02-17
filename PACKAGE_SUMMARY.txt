@@ -100,11 +100,7 @@ openclaw-notebooklm-install
 📚 DOCUMENTATION FILES
 -----------------------
 README.md            →  User-facing documentation (for GitHub/PyPI)
-QUICK_START.md       →  Fast reference for publishing
-PUBLISHING.md        →  Detailed PyPI publishing guide
-GITHUB_SETUP.md      →  GitHub repository setup
-PACKAGE_OVERVIEW.md  →  Technical architecture & roadmap
-PACKAGE_SUMMARY.txt  →  This quick reference (plain text)
+
 
 🔗 LINKS (Update after publishing)
 -----------------------------------

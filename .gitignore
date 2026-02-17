@@ -35,3 +35,13 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+
+#files
+GITHUB_SETUP.md
+PACKAGE_OVERVIEW.md
+QUICK_START.md       
+PUBLISHING.md        
+GITHUB_SETUP.md     
+PACKAGE_OVERVIEW.md 
+PACKAGE_SUMMARY.txt  

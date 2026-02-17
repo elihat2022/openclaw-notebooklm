@@ -3,6 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/openclaw-notebooklm.svg)](https://badge.fury.io/py/openclaw-notebooklm)
 [![Python Support](https://img.shields.io/pypi/pyversions/openclaw-notebooklm.svg)](https://pypi.org/project/openclaw-notebooklm/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buy-me-a-coffee)](https://buymeacoffee.com/elihatdeveloper)
 
 **One-command installer** for integrating Google NotebookLM with OpenClaw via MCP.
 
@@ -223,6 +224,14 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - 🐛 [Report Issues](https://github.com/yourusername/openclaw-notebooklm/issues)
 - 💬 [Discussions](https://github.com/yourusername/openclaw-notebooklm/discussions)
 - 📖 [Documentation](https://github.com/yourusername/openclaw-notebooklm#readme)
+
+## Support This Project
+
+If you find this project useful, consider buying me a coffee! ☕
+
+<a href="https://buymeacoffee.com/elihatdeveloper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Your support helps maintain and improve this project!
 
 ---
 

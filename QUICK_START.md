@@ -1,5 +1,7 @@
 # Quick Start - Publicar openclaw-notebooklm
 
+**Current Version**: 0.1.1
+
 ## 🎯 Objetivo
 
 Publicar el paquete `openclaw-notebooklm` en PyPI para que otros usuarios puedan instalar la integración de NotebookLM con OpenClaw con un solo comando.

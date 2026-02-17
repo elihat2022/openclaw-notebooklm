@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "openclaw-notebooklm"
-version = "0.1.0"
+version = "0.1.1"
 description = "NotebookLM MCP integration for OpenClaw - Automated installer and skill manager"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -30,6 +30,7 @@ Homepage = "https://github.com/yourusername/openclaw-notebooklm"
 Documentation = "https://github.com/yourusername/openclaw-notebooklm#readme"
 Repository = "https://github.com/yourusername/openclaw-notebooklm.git"
 Issues = "https://github.com/yourusername/openclaw-notebooklm/issues"
+Funding = "https://buymeacoffee.com/elihatdeveloper"
 
 [project.scripts]
 openclaw-notebooklm-install = "openclaw_notebooklm.installer:main"
