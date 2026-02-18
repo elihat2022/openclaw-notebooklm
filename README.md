@@ -214,16 +214,16 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Credits
 
-- **OpenClaw**: https://docs.openclaw.dev
-- **mcporter**: https://github.com/wong2/mcporter
-- **notebooklm-mcp**: https://github.com/wong2/notebooklm-mcp
-- **Model Context Protocol**: https://spec.modelcontextprotocol.io
+- **OpenClaw**: https://docs.openclaw.ai
+- **mcporter**: https://github.com/steipete/mcporter
+- **notebooklm-mcp**: https://github.com/jacob-bd/notebooklm-mcp-cli
+- **Model Context Protocol**: https://modelcontextprotocol.io
 
 ## Support
 
-- 🐛 [Report Issues](https://github.com/yourusername/openclaw-notebooklm/issues)
-- 💬 [Discussions](https://github.com/yourusername/openclaw-notebooklm/discussions)
-- 📖 [Documentation](https://github.com/yourusername/openclaw-notebooklm#readme)
+- 🐛 [Report Issues](https://github.com/elihat2022/openclaw-notebooklm/issues)
+- 💬 [Discussions](https://github.com/elihat2022/openclaw-notebooklm/discussions)
+- 📖 [Documentation](https://github.com/elihat2022/openclaw-notebooklm#readme)
 
 ## Support This Project
 
