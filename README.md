@@ -1,4 +1,4 @@
-![OpenClaw NotebookLM Integration](tmp8_x5c9m1.jpeg)
+![OpenClaw NotebookLM Integration Cover](tmp8_x5c9m1.jpeg)
 # OpenClaw NotebookLM Integration
 
 [![PyPI version](https://badge.fury.io/py/openclaw-notebooklm.svg)](https://badge.fury.io/py/openclaw-notebooklm)
